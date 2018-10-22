@@ -7,7 +7,7 @@ time = np.arange(0,length,1)
 
 #add noise
 
-r = 1 # I just chose any numbers
+r = 1
 w = 10
 m = 2
 t = 0.1
